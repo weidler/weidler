@@ -27,7 +27,7 @@ class Researcher(CuriousHuman):
         self.language_spoken = ["de_DE", "en_US"]
 
     def greet(self, name):
-        print(f"Hello there, {name}! I hope you like what you find here :)"
+        print(f"Hello there, {name}! I hope you like what you find here :)")
 
 ```
 
